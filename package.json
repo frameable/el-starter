@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@frameable/el": "^0.7.2",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "npm run build && node app",
+    "start:dev": "NODE_ENV=dev node app",
+    "build": "npx webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "type": "module"
+}
