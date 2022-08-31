@@ -1,6 +1,6 @@
 # El Starter
 
-Minimal template / starter app scaffolding with @frameable/el
+Minimal template / starter app scaffolding with [@frameable/el](https://github.com/frameable/el)
 
 ### Running the app
 
