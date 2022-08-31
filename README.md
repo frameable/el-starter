@@ -8,7 +8,7 @@ In development...
 
 ```
 npm install
-npm start:dev
+npm run start:dev
 ```
 
 Then visit http://localhost:3000 or thereabouts
