@@ -8,8 +8,7 @@ In development...
 
 ```
 npm install
-npm run start:dev
+npm run dev
 ```
 
-Then visit http://localhost:3000 or thereabouts
-
+Then visit <http://localhost:5173> or thereabouts
