@@ -23,7 +23,7 @@ class AppEl extends El {
     return html`
       <header-el></header-el>
       <main>
-        <greetying-cycler-el><greeting-cycler-el>
+        <greeting-cycler-el><greeting-cycler-el>
       </main>
       <footer-el></footer-el>
     `
